@@ -11,7 +11,9 @@ import SwiftUI
 struct PDFChatApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RouterView {
+                ContentView()
+            }
         }
     }
 }
