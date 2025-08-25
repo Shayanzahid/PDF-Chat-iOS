@@ -33,21 +33,31 @@ To use this app, please follow these steps:
 
 When you open the app, you will see a screen like this:<br><br>
 
+<p align="center">
 <img width="350" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 03 00 29" src="https://github.com/user-attachments/assets/20a41a35-54aa-4874-9276-063a2fce1459" /><br><br>
+</p>
 
 Tap on the gray area with the upload icon, and it will open the document picker:<br><br>
 
+<p align="center">
 <img width="350" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 03 03 44" src="https://github.com/user-attachments/assets/637501b0-7322-4b42-b733-9adf862e1843" /><br><br>
+</p>
 
 Select your document and tap `Process PDF` button:<br><br>
 
+<p align="center">
 <img width="350" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 03 04 43" src="https://github.com/user-attachments/assets/0f8ccff2-5877-4a8c-a431-f9b96ab9a3d1" /><br><br>
+</p>
 
 Once the document has finished processing, it will navigate to the chat screen and you can chat with your PDF now:<br><br>
 
+<p align="center">
 <img width="350" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 03 06 56" src="https://github.com/user-attachments/assets/3e91a790-5fd5-41ee-9320-14aff7470520" /><br><br>
+</p>
 
+<p align="center">
 <img width="350" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 03 08 01" src="https://github.com/user-attachments/assets/84793a2b-b80c-4bad-8bc5-944c1dc7d1dd" /><br><br>
+</p>
 
 ## Contributions
 
