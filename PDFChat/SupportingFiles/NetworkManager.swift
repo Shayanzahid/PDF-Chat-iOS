@@ -55,7 +55,7 @@ final class NetworkManager: ObservableObject {
     
     func askQuestion(_ question: String) async throws -> AskResponse {
         // NOTE: Replace with your deployed URL
-        guard let url = URL(string: "https://example.com/ask/") else {
+        guard let url = URL(string: "https://pdf-chat-azcm.onrender.com/ask/") else {
             throw URLError(.badURL)
         }
         
